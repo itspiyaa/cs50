@@ -6,7 +6,7 @@ Tracking my CS50 x 2026 progress
 | Week | Topic | Status | Completed |
 | --- | --- | --- | --- |
 | Week 0 | Scratch | ✅ | Mar 2026 |
-| Week 1 | C | | ✅ | Mar 2026 |
+| Week 1 | C | ✅ | Mar 2026 |
 | Week 2 | Arrays | 🔄 | - |
 | Week 3 | Algorithms | | - |
 | Week 4 | Memory | | - |
