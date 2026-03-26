@@ -1,7 +1,5 @@
-# cs50
-Tracking my CS50 x 2026 progress
-
 # CS50x 2026 Progress
+Tracking my CS50 x 2026 progress
 
 | Week | Topic | Status | Completed |
 | --- | --- | --- | --- |
